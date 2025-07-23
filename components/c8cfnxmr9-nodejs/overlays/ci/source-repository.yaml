@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: c8cfnxmr9-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/c8cfnxmr9-nodejs
